@@ -7,7 +7,7 @@ If you have any suggestions - you can send them to [Email](viktorovio@yahoo.com)
 Thank you! Have a good day!
 
 ## Easy level:
-- AddTwoNumbers
-- FibonacciNumber
-- RomanToInteger
-- TwoSum
+- [AddTwoNumbers](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/AddTwoNumbers)
+- [FibonacciNumber](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/FibonacciNumber)
+- [RomanToInteger](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/RomanToInteger)
+- [TwoSum](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/TwoSum)
