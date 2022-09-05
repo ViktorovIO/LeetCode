@@ -12,6 +12,7 @@ Thank you! Have a good day!
 - [RomanToInteger](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/RomanToInteger)
 - [TwoSum](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/TwoSum)
 - [PalindromeNumber](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/PalindromeNumber)
+- [MergeTwoSortedLists](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/MergeTwoSortedLists)
 
 ## Medium level:
 - [ReorderedPowerOfTwo](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReorderedPowerOfTwo/)
