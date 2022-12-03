@@ -17,3 +17,5 @@ Thank you! Have a good day!
 ## Medium level:
 - [ReorderedPowerOfTwo](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReorderedPowerOfTwo/)
 - [ReverseInteger](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReverseInteger/)
+- [LongestSubstringWithoutRepeatingCharacters](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/LongestSubstringWithoutRepeatingCharacters/)
+- [SortCharactersByFrequency](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/SortCharactersByFrequency/)
