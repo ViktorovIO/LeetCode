@@ -3,7 +3,7 @@
 ---
 Hello! These are my solutions to problems from LeetCode.  
 I hope you will be interested, and someone will help in solving problems :)  
-If you have any suggestions - you can send them to [Email](viktorovio@yahoo.com).  
+If you have any suggestions - you can send them to [Email](mailto:viktorovio@yahoo.com).  
 Thank you! Have a good day!
 
 ## Easy level:
@@ -19,3 +19,4 @@ Thank you! Have a good day!
 - [ReverseInteger](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReverseInteger/)
 - [LongestSubstringWithoutRepeatingCharacters](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/LongestSubstringWithoutRepeatingCharacters/)
 - [SortCharactersByFrequency](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/SortCharactersByFrequency/)
+- [MinimumAverageDifference](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/MinimumAverageDifference/)
