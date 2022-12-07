@@ -14,6 +14,7 @@ Thank you! Have a good day!
 - [PalindromeNumber](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/PalindromeNumber)
 - [MergeTwoSortedLists](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/MergeTwoSortedLists)
 - [MiddleOfTheLinkedList](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/MiddleOfTheLinkedList)
+- [RangeSumOfBST](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/RangeSumOfBST)
 
 ## Medium level:
 - [ReorderedPowerOfTwo](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReorderedPowerOfTwo/)
