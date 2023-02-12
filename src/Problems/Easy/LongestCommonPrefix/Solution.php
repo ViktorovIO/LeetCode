@@ -6,7 +6,8 @@ class Solution {
      * @param String[] $strs
      * @return String
      */
-    function longestCommonPrefix($strs) {
+    function longestCommonPrefix($strs)
+    {
         $strsCount = count($strs);
         if ($strsCount < 2) {
             return $strs ? $strs[0] : "";
