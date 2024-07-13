@@ -16,6 +16,7 @@ Thank you! Have a good day!
 - [MiddleOfTheLinkedList](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/MiddleOfTheLinkedList)
 - [RangeSumOfBST](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/RangeSumOfBST)
 - [LongestCommonPrefix](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/LongestCommonPrefix)
+- [Pascal'sTriangle](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/Pascal'sTriangle)
 
 ## Medium level:
 - [ReorderedPowerOfTwo](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReorderedPowerOfTwo/)
