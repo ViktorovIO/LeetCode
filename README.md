@@ -20,6 +20,7 @@ Thank you! Have a good day!
 - [ValidParentheses](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/ValidParentheses)
 - [BestTimeToBuyAndSellStock](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/BestTimeToBuyAndSellStock)
 - [InvertBinaryTree](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/InvertBinaryTree)
+- [ValidAnagram](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/ValidAnagram)
 
 ## Medium level:
 - [ReorderedPowerOfTwo](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReorderedPowerOfTwo/)
