@@ -17,6 +17,7 @@ Thank you! Have a good day!
 - [RangeSumOfBST](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/RangeSumOfBST)
 - [LongestCommonPrefix](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/LongestCommonPrefix)
 - [Pascal'sTriangle](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/Pascal'sTriangle)
+- [ValidParentheses](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/ValidParentheses)
 
 ## Medium level:
 - [ReorderedPowerOfTwo](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReorderedPowerOfTwo/)
