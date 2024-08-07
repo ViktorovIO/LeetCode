@@ -18,6 +18,7 @@ Thank you! Have a good day!
 - [LongestCommonPrefix](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/LongestCommonPrefix)
 - [Pascal'sTriangle](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/Pascal'sTriangle)
 - [ValidParentheses](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/ValidParentheses)
+- [BestTimeToBuyAndSellStock](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/BestTimeToBuyAndSellStock)
 
 ## Medium level:
 - [ReorderedPowerOfTwo](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReorderedPowerOfTwo/)
