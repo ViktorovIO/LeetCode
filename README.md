@@ -23,6 +23,8 @@ Thank you! Have a good day!
 - [ValidAnagram](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/ValidAnagram)
 - [BinarySearch](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/BinarySearch)
 - [FloodFill](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/FloodFill)
+- [BalancedBinaryTree](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/BalancedBinaryTree)
+- [LinkedListCycle](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/LinkedListCycle)
 
 ## Medium level:
 - [ReorderedPowerOfTwo](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReorderedPowerOfTwo/)
