@@ -36,3 +36,4 @@ Thank you! Have a good day!
 - [MinimumAverageDifference](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/MinimumAverageDifference/)
 - [OddEvenLinkedList](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/OddEvenLinkedList/)
 - [LowestCommonAncestorOfABinarySearchTree](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/LowestCommonAncestorOfABinarySearchTree/)
+- [MaximumSubarray](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/MaximumSubarray/)
