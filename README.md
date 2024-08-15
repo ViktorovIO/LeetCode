@@ -26,6 +26,7 @@ Thank you! Have a good day!
 - [BalancedBinaryTree](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/BalancedBinaryTree)
 - [LinkedListCycle](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/LinkedListCycle)
 - [ImplementQueueUsingStacks](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/ImplementQueueUsingStacks)
+- [FirstBadVersion](https://github.com/ViktorovIO/LeetCode/tree/master/src/Problems/Easy/FirstBadVersion)
 
 ## Medium level:
 - [ReorderedPowerOfTwo](https://github.com/ViktorovIO/LeetCode/blob/master/src/Problems/Medium/ReorderedPowerOfTwo/)
